@@ -5,12 +5,6 @@
 I am an enthusiastic researcher in Large Language Models (LLMs) and Vision-Language Models (VLMs), passionate about turning research ideas into practical algorithms, implementing them at scale, running experiments, and launching new models. I actively follow the latest advancements in model training and optimization, with a particular interest in making LLMs more efficient, interpretable, and agentic. Whether it’s optimizing clustering algorithms for satellite image analysis or building multi-phase pipelines that combine symbolic reasoning and LLM-based inference for tasks like bug detection, my work reflects a drive to translate abstract research into working, real-world systems.
 
 <p align="left">
-      <a href="https://www.youtube.com/@yuvrajpant3085">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@yuvrajpant3085">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/yuvrajpant56?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/yuvrajpant56?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
