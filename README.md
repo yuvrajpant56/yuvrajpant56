@@ -40,18 +40,11 @@ I am an enthusiastic researcher in Large Language Models (LLMs) and Vision-Langu
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/yuvrajpant56/github-readme-activity-graph"><img alt="yuvrajpant56 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#400](https://github.com/DenverCoder1/readme-typing-svg/issues/400) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. ❗️ Closed issue [#399](https://github.com/DenverCoder1/readme-typing-svg/issues/399) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🎉 Merged PR [#332](https://github.com/torahcalc/torahcalc/pull/332) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 💪 Opened PR [#332](https://github.com/torahcalc/torahcalc/pull/332) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 🎉 Merged PR [#331](https://github.com/torahcalc/torahcalc/pull/331) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
    
 **yuvrajpant56/yuvrajpant56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
